@@ -13132,8 +13132,8 @@ div[class*="col"]:nth-child(even) .team-item:hover .team-thumb::before {
     border: none;
     color: #ffffff;
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 150px;
+    right: 1px;
     width: auto;
     padding: 0 20px;
 }
